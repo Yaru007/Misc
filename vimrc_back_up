@@ -1,0 +1,8 @@
+"  Yaru's configuration for vim
+"  Format
+syntax on       "  syntax for certain file 
+set number      " line number
+set cursorline  " current line
+set cursorcolumn " current column
+"  Editting
+set clipboard+=unnamed
